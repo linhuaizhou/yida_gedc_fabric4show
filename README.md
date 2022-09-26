@@ -21,4 +21,7 @@ update at 20220907
 
 控制器部分（controller）
 ![控制器部分](https://user-images.githubusercontent.com/78396957/188826869-9eea6280-6a93-4c6f-877d-523085d9ea2d.JPG)
+研电赛国赛 国一+优秀论文 gedc best paper and national first prize
+![`IPBW{J9ML0Y~K1HADU~}X3](https://user-images.githubusercontent.com/78396957/192313508-43614442-9610-46ce-a73b-079547a8818a.png)
+![~CY_$CVVV2 @8DEK@F_G6$O](https://user-images.githubusercontent.com/78396957/192313525-726e3eef-ce65-4ab9-a6a4-e026c0ccbbb7.png)
 
