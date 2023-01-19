@@ -28,4 +28,4 @@ update at 20220907
 ![IMG_7956(20221113-134732)](https://user-images.githubusercontent.com/78396957/202099158-3d7dafff-fbef-4b47-8765-ab863de10b3f.JPG)
 ![IMG_7968(20221113-135352)](https://user-images.githubusercontent.com/78396957/202099171-4896d1e9-8b21-4faa-8212-5e5d269a63f3.JPG)
 2023.1.19  大家新年好啊 
-ICME2023 Regular Paper在投 第一篇独立一作 但愿能中~
+ICME2023 Regular Paper在投 第一篇独立一作,但愿能中~
